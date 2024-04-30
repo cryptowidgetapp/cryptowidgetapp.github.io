@@ -1,4 +1,4 @@
-![StockWidget](/images/feature.png)
+![CryptoWidget](/images/feature.png)
 # Welcome to the CryptoWidget App's website
 
 ## Available on the PlayStore
